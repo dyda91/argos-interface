@@ -1,0 +1,12 @@
+.upload-files-container {
+    max-width: 100%;
+  }
+  
+  .welcome-message {
+    position: absolute;
+    top: 60px; 
+    right: 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
